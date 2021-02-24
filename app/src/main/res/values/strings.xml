@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Workinghours_demo</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="fillinfo">Record Time</string>
+    <string name="signuphere">Create a new account? <u>Signup</u></string>
+    <string name="loginhere">Already have an account? <u>login</u></string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
